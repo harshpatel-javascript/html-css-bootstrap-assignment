@@ -12,3 +12,26 @@
 .box-shadow {
   box-shadow: 0 2px 4px 0 var(--shadow);
 }
+.dotd-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 1rem;
+}
+.heading {
+  display: flex;
+  align-items: center;
+}
+.new-ad {
+  box-shadow: 0 2px 4px 0 var(--shadow);
+}
+.txt {
+  font-weight: 400;
+}
+.offer {
+  color: green;
+}
+.tag {
+  font-size: 12px;
+  color: grey;
+}
