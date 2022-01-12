@@ -1,0 +1,14 @@
+:root {
+  --main-color: #2874f0;
+  --shadow: rgb(0 0 0 / 16%);
+  --btn-color: #2873f0;
+}
+.category {
+  text-align: center;
+}
+.head img {
+  height: 75px;
+}
+.box-shadow {
+  box-shadow: 0 2px 4px 0 var(--shadow);
+}
